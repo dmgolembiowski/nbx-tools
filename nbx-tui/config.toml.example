@@ -1,0 +1,5 @@
+account_id = "01234567-89ab-cdef-0123-456789abcdef"
+label = "testing"
+api_key = "01234567-89ab-cdef-0123-456789abcdef"
+api_secret = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQ="
+api_passphrase = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQ="
